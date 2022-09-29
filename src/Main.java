@@ -10,7 +10,7 @@ public class Main
         double tempF;
 
 
-        System.out.println("Please enter the temperature in Celcius: ");
+        System.out.print("Please enter the temperature in Celsius: ");
 
         if(in.hasNextDouble())
         {
